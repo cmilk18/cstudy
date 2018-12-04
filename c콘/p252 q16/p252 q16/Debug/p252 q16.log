@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\paul\desktop\대학숙제\c\c콘\p252 q16\p252 q16\main.c(12): warning C4477: 'scanf_s' : 서식 문자열 '%c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+  c:\users\paul\desktop\대학숙제\c\c콘\p252 q16\p252 q16\main.c(12): note: 이 인수는 버퍼 크기로 사용됩니다.
+c:\users\paul\desktop\대학숙제\c\c콘\p252 q16\p252 q16\main.c(12): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\paul\desktop\대학숙제\c\c콘\p252 q16\p252 q16\main.c(12): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+  c:\users\paul\desktop\대학숙제\c\c콘\p252 q16\p252 q16\main.c(12): note: 누락된 variadic 인수 3이(가) 서식 문자열 '%4d'에 필요합니다.
+  p252 q16.vcxproj -> C:\Users\paul\Desktop\대학숙제\c\c콘\p252 q16\Debug\p252 q16.exe

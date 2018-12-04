@@ -1,0 +1,8 @@
+﻿  소스.cpp
+c:\users\paul\desktop\대학숙제\c\c콘\project3\project3\소스.cpp(16): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[50]'입니다.
+c:\users\paul\desktop\대학숙제\c\c콘\project3\project3\소스.cpp(16): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int (*)[50]'입니다.
+c:\users\paul\desktop\대학숙제\c\c콘\project3\project3\소스.cpp(16): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int (*)[50]'입니다.
+c:\users\paul\desktop\대학숙제\c\c콘\project3\project3\소스.cpp(20): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\paul\desktop\대학숙제\c\c콘\project3\project3\소스.cpp(20): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+c:\users\paul\desktop\대학숙제\c\c콘\project3\project3\소스.cpp(20): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+  Project3.vcxproj -> C:\Users\paul\Desktop\대학숙제\c\c콘\Project3\Debug\Project3.exe

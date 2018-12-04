@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\paul\desktop\대학숙제\c\개념콕콕\2-2\2-2\main.c(15): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double'입니다.
+  2-2.vcxproj -> C:\Users\paul\Desktop\대학숙제\c\개념콕콕\2-2\Debug\2-2.exe
